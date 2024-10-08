@@ -8,14 +8,15 @@
       <Unit>
         <Filename Value="project1.lpr"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="upr"/>
+        <UnitName Value="zd5"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="45" Y="3"/>
+        <TopLine Value="24"/>
+        <CursorPos X="10" Y="46"/>
         <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="20">
+    <JumpHistory HistoryIndex="21">
       <Position>
         <Filename Value="project1.lpr"/>
       </Position>
@@ -98,6 +99,10 @@
       <Position>
         <Filename Value="project1.lpr"/>
         <Caret Line="107" Column="5" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="14" Column="88"/>
       </Position>
     </JumpHistory>
     <RunParams>
